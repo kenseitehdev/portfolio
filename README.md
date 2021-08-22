@@ -53,7 +53,7 @@
                       
                    </div>
                    <div class="flex-grow">
-                    <h2 class="text-gray-900 text-lg title-font font-medium mb-3"style="color:purple;">MAI</h2>
+                    <h2 class="text-gray-900 text-lg title-font font-medium mb-3"style="color:purple;"> MAI </h2>
                     <p class="leading-relaxed text-base">MAI stands for Modular Artificial Intelligence; this program and attached API is a bottom up designed artificial intelligence coupled with Machine Learning, Natural Language Processing, and Deep Learning. Utilizing digital methods as sensory organs and identifying needs and wants by weighing needs vs ease of access, MAI is a current project with the hopes of reducing invasion of privacy in data mining while maintaining a high level of intelligence and assistance to any user.</p>
                    
                    </div>
@@ -68,7 +68,7 @@
                     
                    </div>
                    <div class="flex-grow">
-                    <h2 class="text-gray-900 text-lg title-font font-medium mb-3"style="color:purple;">Dripchat</h2>
+                    <h2 class="text-gray-900 text-lg title-font font-medium mb-3"style="color:purple;"> Dripchat </h2>
                     <p class="leading-relaxed text-base">Dripchat is a content creation and viewing social media platform, utilizing django and postgresql to allow for content creators to add content, monetize the content and allow for subscriptions for easy viewing access.</p>
                     
                    </div>
